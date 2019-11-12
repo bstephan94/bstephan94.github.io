@@ -6,7 +6,7 @@
 
 [Budweiser IPA Exploratory Analysis](/eda.html)
 #### <i>Analysis of craft brewery data to analyze a potential for a Budwesier IPA. <i>
-<img src="images/dds_midterm1_thumbnail.png" style="width:25px;height:25px;"/>
+<img src="images/dds_midterm1_thumbnail.png" style="width:300px;height:300px;"/>
 
 ---
 [Beer RShiny Dashboard](/dds_rshiny/app.r)
