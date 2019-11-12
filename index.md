@@ -1,10 +1,11 @@
-## Portfolio
+# Portfolio
 
 ## SMU Projects
 ---
 ### Doing Data Science - Fall 2019
 
 [Budweiser IPA Exploratory Analysis](/eda.html)
+#### <i>Analysis of craft brewery data to analyze a potential for a Budwesier IPA. <i>
 <img src="https://github.com/bstephan94/bstephan94.github.io/blob/master/images/dds_midterm1_thumbnail.png" style="width:25px;height:25px;"/>
 
 ---
