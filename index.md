@@ -4,7 +4,7 @@
 ### Doing Data Science - Fall 2019
 
 [Budweiser IPA Exploratory Analysis](/eda.html)
-<img src="images/dds_miderm1_thumbnail.png?raw=true"/>
+<img src="images/dds_miderm1_thumbnail.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
