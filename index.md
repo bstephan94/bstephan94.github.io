@@ -7,7 +7,7 @@
 <img src="images/dds_miderm1_thumbnail.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Beer RShiny Dashboard](/dds_rshiny/app.r)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
