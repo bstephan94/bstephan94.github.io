@@ -2,9 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Budweiser IPA Exploratory Analysis
+#### Doing Data Science - Fall 2019
 
-[Project 1 Title](eda.html)
+[Project 1 Title](/eda.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
