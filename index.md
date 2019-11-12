@@ -1,12 +1,10 @@
 ## Portfolio
 
 ---
+### Doing Data Science - Fall 2019
 
-### Budweiser IPA Exploratory Analysis
-#### Doing Data Science - Fall 2019
-
-[Project 1 Title](/eda.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Budweiser IPA Exploratory Analysis](/eda.html)
+<img src="images/dds_miderm1_thumbnail.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
