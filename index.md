@@ -4,7 +4,7 @@
 ### Doing Data Science - Fall 2019
 
 [Budweiser IPA Exploratory Analysis](/eda.html)
-<img src="https://github.com/bstephan94/bstephan94.github.io/blob/master/images/dds_midterm1_thumbnail.png"/>
+<img src="https://github.com/bstephan94/bstephan94.github.io/blob/master/images/dds_midterm1_thumbnail.png" style="width:50px;"/>
 
 ---
 [Beer RShiny Dashboard](/dds_rshiny/app.r)
