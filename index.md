@@ -9,8 +9,8 @@
 <img src="images/dds_midterm1_thumbnail.png"/>
 
 ---
-[Beer RShiny Dashboard](/dds_rshiny/app.r)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[RShiny Beer Exploration Dashboard](https://bstephan94.shinyapps.io/beer_dashboard/)
+<img src="images/beer_dashboard.png"/>
 ---
 
 ## Kaggle Projects
