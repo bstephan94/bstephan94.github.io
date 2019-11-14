@@ -10,6 +10,7 @@
 
 ---
 [RShiny Beer Exploration Dashboard](https://bstephan94.shinyapps.io/beer_dashboard/)
+#### <i> Utilized RShiny, Plotly, GGplot2, Dplyr, adn more to create an interactice dashboard on analysis of ABV and IBU for over 2000 craft beers. <i>
 <img src="images/beer_dashboard.png"/>
 ---
 
